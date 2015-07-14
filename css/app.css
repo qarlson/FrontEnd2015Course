@@ -1,0 +1,78 @@
+/* 
+    Coded By JBoku8 2015 
+*/ 
+
+@import url('font.css');
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto Mono', Helvetica ,sans-serif;
+    height: 100%;
+}
+
+.logo-cont {
+    background-color: #00ddCC;
+    padding: 20px 25px;
+}
+
+
+.gita {
+    background-color: #00ffCC;
+}
+
+.logo-cont  h3 {
+    text-align: center;
+    color: #3d3d3d;
+}
+
+
+.content {
+    font-family: "BPG Nino Mtavruli Bold";
+}
+
+.lecture {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #33CCFF;
+    box-shadow: 0px 0px 3px rgba(0,0,0,.2);
+
+    cursor: pointer;
+}
+
+.lecture h4 {
+    text-align: center;
+}
+
+.trainers {
+    border-left: 1px solid #ccc;
+}
+
+.coded {
+    box-sizing: border-box;
+    padding: 40px 0px;
+    vertical-align: middle;
+    text-decoration: underline;
+    color: #75da85;
+    cursor: pointer;
+}
+
+.socials ul {
+    text-decoration: none;
+    list-style: none;
+    margin-left: -40px;
+}
+
+.socials li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.socials span {
+    text-align: center;
+}
