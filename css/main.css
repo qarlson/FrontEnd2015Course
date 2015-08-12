@@ -380,14 +380,16 @@ h5{
   margin-bottom: 10px;
 }
 .lecture h4 span {
-    /* text-decoration: underline; */
-    border-bottom: 1.5px solid deepskyblue;
+  border-bottom: 1.5px solid deepskyblue;
     font-family: cursive;
+    display: block;
+    padding: 0 0 6px;
 }
 
 .resources a{
   color: white;
 }
+<<<<<<< HEAD
 .ress a:hover{
   color: rgba(240, 135, 220, 0.6);
   text-decoration: underline;
@@ -402,4 +404,21 @@ h5{
 
 .ress {
     background-color: rgba(13, 23, 97, 0.87);
+=======
+.resources:hover{
+  color: bisque;
+  text-transform: uppercase;
+}
+
+.resources{
+/*  position: absolute;
+    bottom: 5px;
+    left: 15px;*/
+      color: white;
+}
+
+
+.ress{
+  background-color: rgba(13, 23, 97, 0.87);
+>>>>>>> origin/master
 }

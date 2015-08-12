@@ -1,2 +1,2 @@
-# FrontEnd2015Course
-ეს არის შესავალი "Front End Development" კურსის განრიგი
+# Front End Course 2015 
+"Front End Development-ის" 40 საათიანი  კურსის განრიგი
